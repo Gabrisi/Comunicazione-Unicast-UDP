@@ -7,7 +7,7 @@ package udptime;
 
 /**
  *
- * @author Monica Ciuchetti
+ * @author Luca Brunori Silvio Oddo Gabriele Silla
  */
 import java.io.IOException;
 import java.net.DatagramPacket;
